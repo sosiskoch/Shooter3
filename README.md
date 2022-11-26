@@ -6,5 +6,5 @@
 
 #Как собрать exe на винде
 
-1. pip installer pyinstaller
-2. pyinstaller --onefile shooter_game.py
+1. `pip installer pyinstaller`
+2. `pyinstaller --onefile shooter_game.py`
